@@ -2,5 +2,5 @@ WPUA LATIHAN
 - konsisten menerapkan jadwal yang telah dibuat
 - menjalankan agenda wpuA di hari ahad
 - manjalankan agenda wpuB di hari yang tidak ditentukan
-- menjalankan kursus yang telah disepakati
 - mengatur jadwal dengan kolaborasi agenda kursus
+- mengikuti arahan kursus
